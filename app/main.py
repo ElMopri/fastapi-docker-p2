@@ -24,3 +24,4 @@ async def get_notes():
 async def create_note(request: Request):
     # TODO: Implementar
     return {"message": "Note created successfully!"}
+
